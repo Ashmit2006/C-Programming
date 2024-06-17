@@ -1,0 +1,45 @@
+# Setting Up an IDE for C Programming and Creating a New Project
+
+
+#Comments
+   This is a single-line comment(//)
+   This is a multi-line comment (/*......*/)
+   
+
+
+#Variables
+    Variables are containers for storing data values, like numbers and characters.
+    int a=5;
+
+
+
+#Data Types in C
+ 1.Basic /Fundamental Data Types
+
+       -int: Integer type. Used to store whole numbers.
+        int num = 10; 
+
+        -float: Floating-point type. Used to store decimal numbers with single precision.
+        float b= 5.5;
+
+        -double: Double precision floating-point type. Used to store decimal numbers with double precision.
+         double c = 1.23456789;
+
+        -char: Character type. Used to store single characters.
+        char d = 'N';
+         
+        -void: Represents the absence of type.
+
+ 2.Derived Data Types 
+     -Arrays
+     -Structure 
+     -Union
+
+
+
+ #Format Specifiers
+     Format Specifier	Data Type
+    %d                  int	
+    %f              	float	
+    %lf	                double	
+    %c	                   char
