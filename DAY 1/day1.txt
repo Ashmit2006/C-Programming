@@ -16,16 +16,16 @@
 #Data Types in C
  1.Basic /Fundamental Data Types
 
-       -int: Integer type. Used to store whole numbers.
+       -int: Integer type. Used to store whole numbers.(4 byte)
         int num = 10; 
 
-        -float: Floating-point type. Used to store decimal numbers with single precision.
+        -float: Floating-point type. Used to store decimal numbers with single precision.(4 byte)
         float b= 5.5;
 
-        -double: Double precision floating-point type. Used to store decimal numbers with double precision.
+        -double: Double precision floating-point type. Used to store decimal numbers with double precision.(8 byte)
          double c = 1.23456789;
 
-        -char: Character type. Used to store single characters.
+        -char: Character type. Used to store single characters.(1 byte)
         char d = 'N';
          
         -void: Represents the absence of type.
@@ -42,4 +42,4 @@
     %d                  int	
     %f              	float	
     %lf	                double	
-    %c	                   char
+    %c	                 char

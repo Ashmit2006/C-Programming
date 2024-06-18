@@ -1,0 +1,61 @@
+ #Operators
+   -Operators are used to perform operations on variables and values.
+
+
+
+#Types of Operators
+    1.Arithmetic operators
+    2.Assignment operators
+    3.Comparison operators
+    4.Logical operators 
+
+
+
+1.Arithmetic Operators
+   -Arithmetic operators are used to perform common mathematical operations.
+
+   Operator 	   Name	        Example	
+    +	          Addition		    x + y	
+    -	          Subtraction		x - y	
+    *	          Multiplication    x * y	
+    /	          Division		    x / y	
+    %	          Modulus		    x % y	
+    ++	          Increment 	    ++x	
+    --	          Decrement		    --x
+
+
+
+2.Assignment Operators
+    -Assignment operators are used to assign values to variables.
+
+    Operator	Example	    Same As	
+        =	    x = 5	    x = 5	
+        +=	    x += 3	    x = x + 3	
+        -=	    x -= 3	    x = x - 3	
+        *=	    x *= 3	    x = x * 3	
+        /=	    x /= 3	    x = x / 3	
+        %=	    x %= 3	    x = x % 3
+
+
+
+3.Comparison Operators
+    -Comparison operators are used to compare two values.
+
+
+    Operator	  Name	                    Example
+        ==	     Equal to	                x == y		
+        !=	    Not equal	                x != y	
+        >	    Greater than   	            x > y	
+        <	    Less than	                x < y	
+        >=	    Greater than or equal to	x >= y	
+        <=	    Less than or equal to	    x <= y
+
+
+
+4.Logical Operators
+    -Logical operators are used to determine the logic between variables or values, by combining multiple conditions.
+
+    Operator	Name	   Example	
+    &&      	AND	    x < 5 &&  x < 10    ---->Returns 1 if both statements are true	
+    || 	        OR	    x < 5 || x < 4	-------->Returns 1 if one of the statements is true	
+    !	        NOT	    !(x < 5 && x < 10)  ----->Reverse the result, returns 0 if the result is 1

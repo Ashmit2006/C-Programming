@@ -1,0 +1,2 @@
+#User Input
+  -User input is  handled using the scanf() function.
