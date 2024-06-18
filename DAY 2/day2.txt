@@ -14,14 +14,14 @@
 1.Arithmetic Operators
    -Arithmetic operators are used to perform common mathematical operations.
 
-   Operator 	   Name	        Example	
-    +	          Addition		    x + y	
-    -	          Subtraction		x - y	
-    *	          Multiplication    x * y	
-    /	          Division		    x / y	
-    %	          Modulus		    x % y	
-    ++	          Increment 	    ++x	
-    --	          Decrement		    --x
+   Operator 	   Name	                       Example	
+    +	          Addition		                x + y	
+    -	          Subtraction		            x - y	
+    *	          Multiplication                x * y	
+    /	          Division		                x / y	
+    %	          Modulus		                x % y	
+    ++	          Increment 	                ++x	
+    --	          Decrement		                --x
 
 
 
@@ -42,13 +42,13 @@
     -Comparison operators are used to compare two values.
 
 
-    Operator	  Name	                    Example
-        ==	     Equal to	                x == y		
-        !=	    Not equal	                x != y	
-        >	    Greater than   	            x > y	
-        <	    Less than	                x < y	
-        >=	    Greater than or equal to	x >= y	
-        <=	    Less than or equal to	    x <= y
+    Operator	  Name	                                   Example
+        ==	     Equal to	                                x == y		
+        !=	    Not equal	                                x != y	
+        >	    Greater than   	                            x > y	
+        <	    Less than	                                x < y	
+        >=	    Greater than or equal to	                x >= y	
+        <=	    Less than or equal to	                    x <= y
 
 
 
