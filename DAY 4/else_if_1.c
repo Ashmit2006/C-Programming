@@ -11,6 +11,7 @@ int main()
     {
         printf("The number is greater than 5 but less than 15.\n");
     }
+
     else
     {
         printf("The number is 5 or less.\n");

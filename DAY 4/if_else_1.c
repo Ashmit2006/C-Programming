@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int age = 30;
+    int age = 10;
     if (age >= 18)
     {
         printf("You are eligible to vote");
