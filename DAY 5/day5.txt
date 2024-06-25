@@ -52,7 +52,7 @@
 
 
 
-        ##Do While Loop:
+        ##do While Loop:
 
             Syntax:
             do {
