@@ -1,0 +1,27 @@
+     #Type casting
+        -In C programming, type casting is used to convert a variable 
+        from one data type to another. 
+        There are two types of type casting in C.
+
+
+        #Types
+         -Implicit type casting 
+         -Explicit type casting
+
+
+         1.Implicit Type Casting
+            -Implicit type casting, also known as automatic type conversion, is performed by
+             the compiler automatically when it encounters a mixed type expression. 
+
+
+         2.Explicit Type Casting
+            -Explicit type casting, also known as type conversion or type casting,
+             is done manually by the programmer using a cast operator.
+
+
+
+      #Preprocessor Directives
+       - In C programming, preprocessor directives are commands that are processed by 
+       the preprocessor before the actual compilation of the code begins.
+        These directives provide instructions to the compiler to preprocess
+         the information before actual compilation starts
