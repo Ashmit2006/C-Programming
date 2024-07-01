@@ -1,0 +1,56 @@
+    
+    #Arrays 
+        -collection of variables of the sametype.
+        -Arrays are used to store multiple values in a single variable,instead of declaring separate variables for each value.
+
+
+
+         #Array declaration
+            -To create an array, define the data type (like int) and specify the name of the array followed by square brackets [].
+            -To insert values to it, use a comma-separated list, inside curly braces.
+
+              int myNumbers[] = {25, 50, 75, 100};
+
+
+
+
+        #Access the Elements of an Array
+            -To access an array element, refer to its index number.
+            -Array indexes start with 0: [0] is the first element, [1] is the second element, etc.  
+
+            int myNumbers[] = {25, 50, 75, 100};
+            printf("%d", myNumbers[0]);     
+
+
+
+
+        #Array Size
+            -To get the size of an array, you can use the sizeof operator.
+
+                int myNumbers[] = {10, 25, 50, 75, 100};
+                printf("%lu", sizeof(myNumbers));    
+
+
+
+
+        #Types of Arrays
+         -One-Dimensional Arrays
+         -Multi-Dimensional Arrays  
+
+
+           #One Dimensional Arrays
+           -An array with only one dimension is called a one-dimensional array.
+           -These are the most basic form of arrays, where elements are stored in a linear fashion.
+
+           int myNumbers[] = {25, 50, 75, 100};
+            printf("%d", myNumbers[0]);
+
+
+
+            #Multi-Dimensional Arrays 
+           - A multi-dimensional array contains more than one dimension. The most common is a two-dimensional array, which can be visualized as a table with rows and columns.
+           int matrix[2][3] = {
+                 {1, 2, 3},
+                 {4, 5, 6}
+                  };
+            printf("%d\n", matrix[0][0]); // Accessing the element at the first row and first column
