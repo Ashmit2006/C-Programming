@@ -49,8 +49,6 @@
 
             #Multi-Dimensional Arrays 
            - A multi-dimensional array contains more than one dimension. The most common is a two-dimensional array, which can be visualized as a table with rows and columns.
-           int matrix[2][3] = {
-                 {1, 2, 3},
-                 {4, 5, 6}
-                  };
+         
+             int matrix[2][3] = { {1, 4, 2}, {3, 6, 8} };
             printf("%d\n", matrix[0][0]); // Accessing the element at the first row and first column
