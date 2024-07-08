@@ -6,3 +6,4 @@
     -The address of the variable you are working with is assigned to the pointer.
 
     -The & operator is used to get the address of a variable.
+
