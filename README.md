@@ -27,7 +27,7 @@ This repository is a comprehensive collection of C programs, each focusing on a 
 
 
 ## Notes
-For Notes Visits https://www.dhakalnishan.com.np/p/c-programming-notes.html  OR search `The CSIT Vault` on google.
+For Notes Visits https://www.dhakalnishan.com.np/ OR search `The CSIT Vault` on google.
 
   
 
