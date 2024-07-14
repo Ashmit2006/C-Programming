@@ -1,0 +1,10 @@
+1.Write a program to declare an integer, a float, and a character variable. Initialize them with values and print them.
+2.Write a program to perform addition, subtraction, multiplication, and division of two numbers.
+3.Write a program to take two integers as input from the user and print their sum.
+4.Write a program to check if a number is even or odd.
+5.Write a program to print the first 10 natural numbers using a for loop
+6.Write a program to access and print each element of an array of integers.
+7.Write a program to concatenate two strings with using the string library function.
+8.Write a program to find the length of a string using the string library  function.
+9.Write a program to print the value and address of an integer variable using a pointer
+
