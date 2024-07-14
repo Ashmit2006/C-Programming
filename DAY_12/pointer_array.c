@@ -1,4 +1,5 @@
 #include <stdio.h>
+ #include<conio.h>
 
 int main()
 {
@@ -12,5 +13,7 @@ int main()
         printf("Value at arr[%d]: %d\n", i, *(ptr + i));
     }
 
+ getch();
     return 0;
+
 }

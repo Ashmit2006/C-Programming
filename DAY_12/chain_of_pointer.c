@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 #include <conio.h>
-void main()
+int main()
 {
     int i = 100;
     int *pi;
@@ -19,4 +19,5 @@ void main()
     printf("Value of i = %d \n", *pi);
     printf("Value of i = %d", **pii);
     getch();
+    return 0;
 }
