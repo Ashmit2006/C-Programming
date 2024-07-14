@@ -18,6 +18,7 @@ This repository contains a collection of C programs demonstrating fundamental pr
 | Strings                       | [DAY 9](https://github.com/nishan023/programming_concepts/tree/master/DAY%209) |
 | String library function       | [DAY 10](https://github.com/nishan023/programming_concepts/tree/master/DAY_10) |
 | Pointers                      | [DAY 11](https://github.com/nishan023/programming_concepts/tree/master/DAY_11) |
+| Pointers                      | [DAY 11](https://github.com/nishan023/programming_concepts/tree/master/DAY_12) |
 
 </div>
 
