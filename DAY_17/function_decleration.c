@@ -4,9 +4,9 @@
 
 #define PI 3.1428
 int add(int a, int b);   //function decleration
-float areaOfCircle(float);   //function decleration
+float areaOfCircle(float r);   //function decleration
 
-void main()
+int main()
 {
     int a, b, mySum;
     float myArea;
@@ -23,7 +23,8 @@ void main()
     myArea = areaOfCircle(mySum);
     printf("Area of circle is %f\n", myArea);
 
-    getch(); // Wait for user input before closing
+    getch(); 
+    return 0;
 }
 
 int add(int a, int b)
