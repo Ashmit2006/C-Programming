@@ -1,20 +1,27 @@
 #include <stdio.h>
-#include <conio.h>
 
-#define PI 3.1428
-int add(int, int);   //function decleration
-float areaOfCircle(float);   //function decleration
+// Inline function declarations and definitions
+inline int add(int a, int b)
+{
+    return a + b;
+}
 
-void main()
+inline float areaOfCircle(float radius)
+{
+    return 3.1428 * radius * radius;
+}
+
+// Main function
+int main()
 {
     int a, b, mySum;
     float myArea;
 
-    // Get user input for two numbers
+    // Prompt user to enter two numbers
     printf("Enter two numbers:\n");
     scanf("%d %d", &a, &b);
 
-    // Compute the sum
+    // Compute the sum of the two numbers
     mySum = add(a, b);
     printf("The sum is %d\n", mySum);
 
@@ -22,17 +29,5 @@ void main()
     myArea = areaOfCircle(mySum);
     printf("Area of circle is %f\n", myArea);
 
-    getch(); // Wait for user input before closing
-}
-
-int add(int a, int b)
-{
-    int sum;
-    sum = a + b;
-    return sum;
-}
-
-float areaOfCircle(float radius)
-{
-    return PI * radius * radius;
+    return 0; // Return success
 }

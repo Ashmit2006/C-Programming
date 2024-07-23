@@ -1,27 +1,21 @@
+//WAP  TO ADD TWO NUMBER AND AREA OF CIRCLE 
 #include <stdio.h>
+#include <conio.h>
 
-// Inline function declarations and definitions
-inline int add(int a, int b)
-{
-    return a + b;
-}
+#define PI 3.1428
+int add(int a, int b);   //function decleration
+float areaOfCircle(float);   //function decleration
 
-inline float areaOfCircle(float radius)
-{
-    return 3.1428 * radius * radius;
-}
-
-// Main function
-int main()
+void main()
 {
     int a, b, mySum;
     float myArea;
 
-    // Prompt user to enter two numbers
+    // Get user input for two numbers
     printf("Enter two numbers:\n");
     scanf("%d %d", &a, &b);
 
-    // Compute the sum of the two numbers
+    // Compute the sum
     mySum = add(a, b);
     printf("The sum is %d\n", mySum);
 
@@ -29,5 +23,17 @@ int main()
     myArea = areaOfCircle(mySum);
     printf("Area of circle is %f\n", myArea);
 
-    return 0; // Return success
+    getch(); // Wait for user input before closing
+}
+
+int add(int a, int b)
+{
+    int sum;
+    sum = a + b;
+    return sum;
+}
+
+float areaOfCircle(float radius)
+{
+    return PI * radius * radius;
 }
