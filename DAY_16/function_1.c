@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Function prototype
-int add(int, int);
+int add(int x, int y);
 
 int main()
 {

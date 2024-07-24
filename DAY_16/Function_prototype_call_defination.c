@@ -1,6 +1,8 @@
 #include <stdio.h>
 // Function prototype or function decleration
 int add(int a, int b);
+int sub(int a, int b);
+void multiply(int a, int b);
 
 int main()
 {
