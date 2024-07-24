@@ -1,0 +1,30 @@
+    #Function
+        -The function is a piece of code that performs a specific task.
+        -The function is a reusable block of code.
+        
+
+    #Advantages
+      1.Manageability
+       Easier to write and keep track of.
+       Easier to understand and maintain.
+
+    2.Code Reusability
+        Can be used multiple times.
+
+    3.Non-redundant programming
+       Same function can be called when needed.
+
+    4.Logical Clarity
+       Reduced number of code in main function.
+
+    5.Easy to divide work
+       Large work can be divided by writing different functions. 
+
+       #Scope of variable
+           1.Local Scope
+          -It is defined within a function or a block (such as inside a loop or conditional statement) and can only be accessed within that function or block. 
+          -It is created when the function or block is entered and destroyed when it is exited.
+          
+          2. Global Scope
+          -A variable with global scope is defined outside of all functions and can be accessed by any function within the same program. 
+          -It is created when the program starts and destroyed when the program ends. 
