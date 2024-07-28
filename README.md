@@ -3,6 +3,7 @@
 This repository contains a collection of C programs demonstrating fundamental programming concepts. Each example is designed to illustrate specific aspects of the C language, making it a valuable resource for learners and developers.
 
 ## Table of Contents
+
 <div style="margin-left: 80px; margin-right: auto; text-align: left; ">
 
 | Description                   | Links                                                                          |
@@ -19,6 +20,13 @@ This repository contains a collection of C programs demonstrating fundamental pr
 | String library function       | [DAY 10](https://github.com/nishan023/programming_concepts/tree/master/DAY_10) |
 | Pointers                      | [DAY 11](https://github.com/nishan023/programming_concepts/tree/master/DAY_11) |
 | Pointers                      | [DAY 12](https://github.com/nishan023/programming_concepts/tree/master/DAY_12) |
+| Question Practise             | [DAY 13](https://github.com/nishan023/programming_concepts/tree/master/DAY_13) |
+| Function Theory               | [DAY 14](https://github.com/nishan023/programming_concepts/tree/master/DAY_14) |
+| Practise DAY_13               | [DAY 15](https://github.com/nishan023/programming_concepts/tree/master/DAY_15) |
+| Function                      | [DAY 16](https://github.com/nishan023/programming_concepts/tree/master/DAY_16) |
+| Function                      | [DAY 17](https://github.com/nishan023/programming_concepts/tree/master/DAY_17) |
+| Function                      | [DAY 18](https://github.com/nishan023/programming_concepts/tree/master/DAY_18) |
+| Recursive Function            | [DAY 19](https://github.com/nishan023/programming_concepts/tree/master/DAY_19) |
 
 </div>
 
@@ -26,11 +34,9 @@ This repository contains a collection of C programs demonstrating fundamental pr
 
 This repository is a comprehensive collection of C programs, each focusing on a specific concept or feature of the C programming language. The examples range from basic syntax and control structures to more advanced topics like pointers and dynamic memory allocation.
 
-
 ## Notes
-For Notes Visits https://www.dhakalnishan.com.np/ OR search `The CSIT Vault` on google.
 
-  
+For Notes Visits https://www.dhakalnishan.com.np/ OR search `The CSIT Vault` on google.
 
 ## Usage
 
@@ -52,4 +58,3 @@ int main()
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
-
