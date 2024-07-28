@@ -1,0 +1,19 @@
+   #Passing Arguments by Value
+     -When values of actual arguments are passed to the function as arguments,
+     it is known as passing by value.
+
+
+
+    #Passing Arguments by Address/Refrence
+       -When addresses of actual arguments are passed to the function as arguments (instead of values of actual arguments), 
+       it is known as passing by address.
+
+
+
+    #Recursive Function
+    - Within a function body, if the function calls itself, the mechanism is known as “Recursion” and the function is known as
+       “Recursive Function”.
+
+    -Recursive functions are functions that call themselves and have two basic parts: a base case and a recursive case:
+          Base case: The condition that stops the recursion
+          Recursive case: The part where the function calls itself
